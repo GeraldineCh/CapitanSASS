@@ -1,0 +1,17 @@
+body {
+  background: #233244;
+  font-size: 16px;
+  font-family: "Consolas", monospace; }
+
+.box {
+  border: 2px dashed #ffffff;
+  width: 200px;
+  color: #ffffff; }
+  .box a {
+    color: lightgreen;
+    font-size: 40px; }
+    .box a span {
+      font-size: 80px;
+      font-weight: bold; }
+
+/*# sourceMappingURL=main.css.map */
